@@ -7,3 +7,7 @@ Followings are my experience and skill sets:
 ✔️ Version Control and Project Management: JIRA, Trello, GitHub.
 ✔️ Blockchain and Web3 Development: Web3.js, solidity, Ganache, MetaMask, Hardhat.
 ✔️ Smart Contract integration development: Tokens, MarketPlace blockchain, NFT marketplaces, MonitorCrypto.
+
+
+Portfólio:
+https://www.alefdevops.com
